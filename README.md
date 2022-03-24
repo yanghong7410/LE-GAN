@@ -32,9 +32,9 @@ The code is tested on Python 3.7, PyTorch 1.7.0, TorchVision 0.8.1, but lower ve
 
 **Images for LOD**
 
-1. **[Normal-light data]（https://pan.baidu.com/s/1Kvis8n-EeTnfB1QtNbPuRA）** (Ground-truth). (Extraction Code: 2022)
+1. **[Normal-light data](https://pan.baidu.com/s/1Kvis8n-EeTnfB1QtNbPuRA)** (Ground-truth). (Extraction Code: 2022)
 
-2. [**Low-light data](https://pan.baidu.com/s/1nKFmiYAcbZVqegqnRP0ZPQ)** (Extraction Code: 2022)
+2. **[Low-light data](https://pan.baidu.com/s/1nKFmiYAcbZVqegqnRP0ZPQ)**(Extraction Code: 2022)
 
 **Tips:**
 
