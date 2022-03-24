@@ -22,7 +22,7 @@
 
 ## Environment Preparing
 
-
+The code is tested on Python 3.7, PyTorch 1.7.0, TorchVision 0.8.1, but lower versions are also likely to work.
 
 ------
 
@@ -32,9 +32,9 @@
 
 **Images for LOD**
 
-1. Training data. (Extraction Code: 2022)
+1. **[Normal-light data]（https://pan.baidu.com/s/1Kvis8n-EeTnfB1QtNbPuRA）** (Ground-truth). (Extraction Code: 2022)
 
-2. Testing data. (Extraction Code: 2022)
+2. [**Low-light data](https://pan.baidu.com/s/1nKFmiYAcbZVqegqnRP0ZPQ)** (Extraction Code: 2022)
 
 **Tips:**
 
@@ -49,6 +49,8 @@
 ## Citation
 
 If you use our dataset or code for research, please ensure that you cite our paper:
+
+Ying Fu, Yang Hong, Linwei Chen, and Shaodi You, "LE-GAN: Unsupervised low-light image enhancement network using attention module and identity invariant loss", in Knowledge-Based Systems, 2022, 240: 108010.
 
 ```
 @article{fu2022gan,
