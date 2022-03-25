@@ -24,8 +24,6 @@
 
 The code is tested on Python 3.7, PyTorch 1.7.0, TorchVision 0.8.1, but lower versions are also likely to work.
 
-------
-
 
 
 ## Low-light Object Detection (LOD) Dataset
@@ -38,7 +36,7 @@ The code is tested on Python 3.7, PyTorch 1.7.0, TorchVision 0.8.1, but lower ve
 
 **Tips:**
 
-1. We provide all files in **[Baidu Drive]()**, and the extraction code of all files is “2022”.
+1. We provide all files in **[Baidu Drive]**, and the extraction code of all files is “2022”.
 
 2. Note that each low-light image correspond to one normal-light image as Ground Truth.
 
