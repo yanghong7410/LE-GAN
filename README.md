@@ -22,7 +22,7 @@
 
 ## Environment Preparing
 
-The code is tested on Python 3.7, PyTorch 1.7.0, TorchVision 0.8.1, but lower versions are also likely to work.
+The code is tested on Python 3.7, PyTorch 1.8.2, TorchVision 0.8.2, but lower versions are also likely to work.
 
 
 
