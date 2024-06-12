@@ -27,6 +27,19 @@ The code is tested on Python 3.7, PyTorch 1.8.2, TorchVision 0.8.2, but lower ve
 
 
 ## Paired Normal/low-light Images (PNLI) Dataset
+**Images for PNLI**
+
+1. **[Normal-light data](https://pan.baidu.com/s/1Kvis8n-EeTnfB1QtNbPuRA)** (Ground-truth). (Extraction Code: 2022)
+
+2. **[Low-light data](https://pan.baidu.com/s/1nKFmiYAcbZVqegqnRP0ZPQ)**. (Extraction Code: 2022)
+
+**Tips:**
+
+1. We provide all files in **[Baidu Drive]**, and the extraction code of all files is “2022”.
+
+2. Note that each low-light image correspond to one normal-light image as Ground Truth.
+
+3. We name all images with a purely numeric number, paired long/short-exposure images file names of the same format are corresponding(low-light image file name = normal light image file name+1). For example, for “1.JPG”, the file name of the corresponding low-light image is “2. JPG”.
 
 
 
